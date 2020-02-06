@@ -1,16 +1,12 @@
-# AR Face Tracking Demo
+# XR Face Expressions
 
-This repository contains a variety of examples created while making a new video series in YouTube about Augmented Reality Face Tracking Technologies.
+This repository focuses on creating a wrapper for face expression detection which can be used to perform actions based on face gestures. 
 
-Watch the AR Video Series at [YouTube](https://www.youtube.com/playlist?list=PLQMQNmwN3Fvwji4kYaAyGTf9bFefKlZCQ)
-
-Results from various examples taught in YouTube in the scenes below:
+As a way of helping me in creating more code like this please take a moment to subscribe in [YouTube](https://www.youtube.com/c/dilmervalecillos?sub_cofirmation=1) thank you!
 
 |Unity Scenes||
 |---|---|
-|FaceTrackingAnimated_1.unity|FaceTrackingAnimated_2.unity|
-|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/faceanimated_1.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/faceanimated_2.gif" width="300">|
-|FaceTrackingUVDemo.unity|FaceTrackingCartoonDemo.unity|
-|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/uvdemo.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/cartoondemo.gif" width="300">
-|FaceTrackingPipeline.unity|FaceTrackingPipeline.unity|
-|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_post.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_pre.gif" width="300">|
+|FaceExpressionSmile.unity|FaceExpressionSad.unity|
+|<img src="https://github.com/dilmerv/XRFacexpressions/blob/master/docs/images/smile.gif" width="300">|<img src="https://github.com/dilmerv/XRFacexpressions/blob/master/docs/images/sad.gif" width="300">|
+|FaceExpressionSnarl.unity||
+|<img src="https://github.com/dilmerv/XRFacexpressions/blob/master/docs/images/snarl.gif" width="300">||
