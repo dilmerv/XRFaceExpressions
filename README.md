@@ -7,6 +7,6 @@ As a way of helping me in creating more code like this please take a moment to s
 |Unity Scenes||
 |---|---|
 |FaceExpressionSmile.unity|FaceExpressionSad.unity|
-|<img src="https://github.com/dilmerv/XRFacexpressions/blob/master/docs/images/smile.gif" width="300">|<img src="https://github.com/dilmerv/XRFacexpressions/blob/master/docs/images/sad.gif" width="300">|
+|<img src="https://github.com/dilmerv/XRFaceExpressions/blob/master/docs/images/smile.gif" width="300">|<img src="https://github.com/dilmerv/XRFaceExpressions/blob/master/docs/images/sad.gif" width="300">|
 |FaceExpressionSnarl.unity||
-|<img src="https://github.com/dilmerv/XRFacexpressions/blob/master/docs/images/snarl.gif" width="300">||
+|<img src="https://github.com/dilmerv/XRFaceExpressions/blob/master/docs/images/snarl.gif" width="300">||
